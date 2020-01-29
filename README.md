@@ -12,7 +12,7 @@ Project requires Python and QGroundControl
 6. Rasperry Pi Day & Night Vision Camera
 ## Contributors
 Sponsor: Dr. Stavros <br />
-TA: Ping Wang_
+TA: Ping Wang <br />
 Team members: Ryan Orem, Cody Randig, Pulakit Mishra, Yousef Abu Khalifa 
 ## Project Status
 GUI,
