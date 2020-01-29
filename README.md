@@ -15,6 +15,6 @@ Sponsor: Dr. Stavros <br />
 TA: Ping Wang <br />
 Team members: Ryan Orem, Cody Randig, Pulakit Mishra, Yousef Abu Khalifa 
 ## Project Status
-Works individually: GUI, Camera, Lidar sensor, Mission Planner
+Works individually: GUI, Camera, Lidar sensor, Mission Planner <br />
 In Progress: Improving GPS accuracy, improving compass accuracy, Properly connecting Lidar to Pixhawk
 
