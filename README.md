@@ -15,4 +15,4 @@ Sponsor: Dr. Stavros <br />
 TA: Ping Wang <br />
 Team members: Ryan Orem, Cody Randig, Pulakit Mishra, Yousef Abu Khalifa 
 ## Project Status
-GUI,
+Works individually: GUI, Camera, Lidar sensor
