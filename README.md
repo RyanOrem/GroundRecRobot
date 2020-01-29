@@ -11,8 +11,8 @@ Project requires Python and QGroundControl
 5. TFMini Lidar sensor
 6. Rasperry Pi Day & Night Vision Camera
 ## Contributors
-Sponsor: Dr. Stavros
-TA: Ping Wang
+Sponsor: Dr. Stavros__
+TA: Ping Wang__
 Team members: Ryan Orem, Cody Randig, Pulakit Mishra, Yousef Abu Khalifa 
 ## Project Status
 GUI,
